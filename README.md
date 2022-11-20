@@ -1,2 +1,3 @@
 # codingChallengeFrontendMentorSinglePriceGridComponent
-my first try
+my first try on Frontend Mentor,
+my 2nd challenge
